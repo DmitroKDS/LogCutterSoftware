@@ -10,4 +10,9 @@ the largest possible cylinder that can be inscribed inside the log, the optimal 
 This allows the company to cut logs with less material waste and to produce a larger, more efficient cylinder from every piece of wood.
 
 # Use
-```python main.py```
+
+## Installation
+`pip install -r requirements.txt`
+
+## Run
+`python main.py`
