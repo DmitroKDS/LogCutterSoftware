@@ -11,8 +11,8 @@ This allows the company to cut logs with less material waste and to produce a la
 
 # Use
 
-## Installation
+### Installation
 `pip install -r requirements.txt`
 
-## Run
+### Run
 `python main.py`
